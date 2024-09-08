@@ -6,11 +6,11 @@ Olá, sou Cristiano, universalmente conhecido como, simplismente, Cris, estudant
 # Conhecimentos
 
 <p align="center">
-  <img src="https://deadbear.ghost.io/content/images/2021/06/768px-Python-logo-notext.png" height="100px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/640px-The_C_Programming_Language_logo.svg.png" height="150px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="200px">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" height="150px">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height="100px">
+  <img src="https://deadbear.ghost.io/content/images/2021/06/768px-Python-logo-notext.png" height="110px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/640px-The_C_Programming_Language_logo.svg.png" height="130px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="150px">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" height="130px">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height="110px">
 </p>
 
 O mundo dos programas, frontend e backend, pode ser dividido em dois mundos, um que é palpável aos olhos e outro que é imaginado, real e irreal, respectivamente, algo como isso, no sentido metáforico, claro. Ser um canivete suíço aqui, tanto dominar a arte da guerra quanto da persuação, é de grande ajuda quando for seguir essa carreira, assim, as minhas habilidades programáticas é um pacotinho com um pouco, exeto em backend, de cada mundo.
