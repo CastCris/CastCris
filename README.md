@@ -31,7 +31,7 @@ O outro lado da moeda temos C++, uma linguagem épica muitas vezes considera dif
 Se C++ é épico, C é lendário. Se uma das bases mundo atual são as teorias de Newton, o Tikteco, Youtube, ChatGPT,joguinhos, Apple, Microsoft, Linutx etc., etc., que são as bases de governos, organizações, grandes corporações/personalidades e da sua vida, existem graças ao C.
 
 # Expectativas
-Prorgramar é uma jornada de constante atividade, por isso tenho desejo aprender COBOL, Assembly(por diversão) e PHP
+Prorgramar é uma jornada de constante aprendizagem, por isso tenho desejo aprender COBOL, Assembly e PHP, um por diversão, outros por serem vantajosos
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png" width="150px">
