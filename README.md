@@ -16,18 +16,23 @@ Olá, sou Cristiano, universalmente conhecido como, simplismente, Cris, estudant
 O mundo dos programas, frontend e backend, pode ser dividido em dois mundos, um que é palpável aos olhos e outro que é imaginado, real e irreal, respectivamente, algo como isso, no sentido metáforico, claro. Ser um canivete suíço aqui, tanto dominar a arte da guerra quanto da persuação, é de grande ajuda quando for seguir essa carreira, assim, as minhas habilidades programáticas é um pacotinho com um pouco, exeto em backend, de cada mundo.
 
 - HTML
+   
 Aqui é o início de tudo, algo como: que se faça divs, ps, headers, body e muito mais. Tags após tags, aqui o pensador é esmagado por aqueles que conhecem truques como ul>li*5>p+div.
 
 - CSS
+  
 Após abrir muitas divs, ps, h1s, h2s etc. você deve ter notado como o site fica mais feio do que bater na mãe, então você aprende css para deixa-ló formidável aos olhos exigentes de seus futuros usuários, daqui em diante de menino não será mais chamado, e sim de trainee, pronto para receber mais que professor com graduação em licenciatura.
 
 - Python
+  
 Talvez eu tenha errado e você não começou por cima, e sim por baixo. A cobrinha, muitas vezes, é uma opção barata para diversas empresas que pretendem melhorar a analíse/processamento de dados, uma vez que esta é tão simples que até o seu avô consegue entender. É graças à ela que o processamento arcaico e análogo à escravidão feito atráves do php se tornou um passeio no parquinho com o Django, é por causa dela, também, que as máquinas estão dominando o mundo, a sociedade está agilizando a sua decadência e a internet não é mais segura do que os anos antes de 2020´s.
 
 - C++
+  
 O outro lado da moeda temos C++, uma linguagem épica muitas vezes considera difícil, apesar de não ser, confiável, algo como o C só que com recursos adicionais, ainda assim, isso não a torna melhor que C.
 
 - C
+  
 Se C++ é épico, C é lendário. Se uma das bases mundo atual são as teorias de Newton, o Tikteco, Youtube, ChatGPT,joguinhos, Apple, Microsoft, Linutx etc., etc., que são as bases de governos, organizações, grandes corporações/personalidades e da sua vida, existem graças ao C.
 
 # Expectativas
