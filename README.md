@@ -4,10 +4,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://i.gifer.com/Ronj.gif" width="440" height="440"/>
+      <img src="./images/check_computer.gif" width="440" height="440"/>
     </td>
     <td>
-      <img src="https://i.gifer.com/3IsP.gif" width="440" height="440"/>
+      <img src="./images/I.gif" width="440" height="440"/>
     </td>
   </tr>
 </table>
@@ -34,10 +34,10 @@ Linux is the truth. Apple is basically selling Linux to people those think they 
 <table>
   <tr>
     <td>
-      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.redd.it%2Fkyz68h661rl21.png&f=1&nofb=1&ipt=ab944ea948ab4cd5840c4e2112578fdf5396aeba60674f74f4273f49fa293b14">
+      <img src="./images/freeciv-logo.png">
     </td>
     <td>
-      <img src="https://freeciv.org/images/header-bg.png"/>
+      <img src="./images/freeciv-play.png"/>
     </td>
   </tr>
 </table>
