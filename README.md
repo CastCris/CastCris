@@ -23,14 +23,14 @@ Linux is the truth. Apple is basically selling Linux to people those think they 
   <a href="https://github.com/CastCris/tiny_games"/>Little Games!</a>
 </div>
 <div align="center">
-  <a href="https://github.com/CastCris/labor_c"/>A c dir with useless functions</a>
+  <a href="https://github.com/CastCris/labor_c"/>A git dir with useless c functions</a>
 </div>
 <div align="center">
   <a href="https://github.com/Place-code/BeerCrowd/tree/Cristiano">Repository with resolutions for programing contest</a>
 </div>
 
 ## Call me to play Freeciv!
-<p>send a email to: cristianochincarosanches@gamil.com</p>
+<p>send a email to: cristianochincarosanches@gmail.com</p>
 <table>
   <tr>
     <td>
