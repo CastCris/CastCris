@@ -1,4 +1,19 @@
-# HELLO WORLD!
+```c
+#include<stdio.h>
+
+//
+int main(){
+  printf("HELLO WORLD!\n");
+
+  return 0;
+}
+```
+```bash
+cc -o main main.c
+./main
+```
+# HELLO WOLRD!
+
 ## Some errors here and there, but nothing to claim!
 
 <table>
