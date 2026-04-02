@@ -1,65 +1,16 @@
-# > HELLO WOLRD!
-```c
-#include<stdio.h>
-
-/* */
-int main()
-{
-  printf("HELLO WORLD!\n");
-  return 0;
-}
-```
-```bash
-cc -o main main.c
-./main
-```
-
-## Some errors here and there, but nothing to claim!
-
-<table>
-  <tr>
-    <td>
-      <img src="./images/check_computer.gif" width="440" height="440"/>
-    </td>
-    <td>
-      <img src="./images/I.gif" width="440" height="440"/>
-    </td>
-  </tr>
-</table>
-Look at me!! I'm the left guy!
+# Hello Worlds!
+<img src="https://github.com/user-attachments/assets/e402156a-3201-405a-8843-1eae47eda691" height=70 alt="mercury">
+<img src="https://github.com/user-attachments/assets/f77ce6bd-13ba-48f6-a9af-d0c434497a5c" height=70 alt="venus">
+<img src="https://github.com/user-attachments/assets/50ec2330-91a9-4f5c-b3e9-cb2e5f333bd5" height=70 alt="earth">
+<img src="https://github.com/user-attachments/assets/d34778e2-9ac1-4f6f-8d78-a4f30363c8ed" height=70 alt="mars">
+<img src="https://github.com/user-attachments/assets/6245f619-1f74-43e7-bf9a-b1f829eb36f9" height=70 alt="jupiter">
+<img src="https://github.com/user-attachments/assets/da54513d-d9b5-4969-a5eb-c29811ed3f04" height=70 alt="saturn">
+<img src="https://github.com/user-attachments/assets/52c26b1e-dcaf-4417-a9ad-d945c38664fe" height=70 alt="uranus">
+<img src="https://github.com/user-attachments/assets/0884cf03-126d-42ef-9699-09507b252e46" height=70 alt="neptune">
 
 ***
 
-## What is the meaning of life? What is my purpose? Why am I ugly? WHERE CAN I FIND ANSWERS TO MY QUESTIONS?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac cursus lorem. In tempus ultricies mollis. Etiam ac orci consequat, hendrerit velit semper, feugiat lacus. Suspendisse velit arcu, malesuada ac ligula scelerisque, dictum aliquet purus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean pharetra arcu a odio maximus varius. Donec ex sapien, maximus et euismod id, scelerisque vitae felis.
+## What Am I doing With my Life?
+![StalkerCount](https://komarev.com/ghpvc/?username=CastCris&color=green&label=Aliens)
 
-## Lovely Code(s)
-<div align="center">
-  <a href="https://github.com/CastCris/ScriptOlympicGames">
-    Script Olympic Games!
-  </a>
-  <br>
-  <a href="https://github.com/CastCris/TinkerCode">
-    TinkerCode
-  </a>
-</div>
-
-## My gists!
-<div align="center">
-  <a href="https://gist.github.com/CastCris">
-    Gists
-  </a>
-</div>
-
-## Call me to play Freeciv!
-<p>send a email to: cristianochincarosanches@gmail.com</p>
-<table>
-  <tr>
-    <td>
-      <img src="./images/freeciv-logo.png">
-    </td>
-    <td>
-      <img src="./images/freeciv-play.png"/>
-    </td>
-  </tr>
-</table>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/CastCris?cardType=octocat&theme=great-gatsby&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
