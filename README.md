@@ -12,7 +12,10 @@
 
 ***
 
-## What Am I doing With my Life?
+# What Am I doing With my Life?
 ![StalkerCount](https://komarev.com/ghpvc/?username=CastCris&color=green&label=Aliens)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/CastCris?cardType=octocat&theme=great-gatsby&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+![TopLanguages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CastCris&theme=great_gatsby)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CastCris&theme=great_gatsby) 
